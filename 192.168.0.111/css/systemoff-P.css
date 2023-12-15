@@ -1,0 +1,127 @@
+@charset "utf-8";
+.text_1{
+	background:;
+	background-color:;
+	position:absolute;
+	height:188px;
+	width:1030px;
+	left:0px;
+	top:132px;
+	overflow:hidden;
+	font-family:新細明體;
+	font-size:72px;
+	font-weight:700;
+	text-align:;
+	line-height:;
+	color:#ff0000;
+	font-style:normal;
+	text-shadow:;
+	text-decoration:  ;
+	border:; 
+}
+.bnone_1{
+	background:rgba(255,255,255,0) url(../images/style00003-P.png) no-repeat center center;-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	margin:0px;padding:0px;
+	position:absolute;
+	height:127px;
+	width:127px;
+	left:298px;
+	top:488px;
+	overflow:;
+	font-family:新細明體;
+	font-size:36px;
+	font-weight:700;
+	text-align:;
+	line-height:;
+	color:#ffffff;
+	font-style:normal;
+	text-shadow:;
+	text-decoration:  ;
+	border:0px solid rgba(255,255,255,0);
+	z-index:;
+}
+.bnone_1 table{
+	text-decoration:  ;
+}
+
+.bnone_1:active{
+	background:rgba(255,255,255,0) url(../images/style00002-P.png) no-repeat center center;-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	margin:0px;padding:0px;
+	position:absolute;
+	height:127px;
+	width:127px;
+	left:298px;
+	top:488px;
+	overflow:;
+	font-family:新細明體;
+	font-size:36px;
+	font-weight:700;
+	text-align:;
+	line-height:;
+	color:#000000;
+	font-style:normal;
+	text-shadow:;
+	text-decoration:  ;
+	border:0px solid rgba(255,255,255,0);
+	z-index:;
+}
+.bnone_1  table:active{
+	text-decoration:  ;
+}
+
+
+.JND_2_0{
+	background:rgba(255,255,255,0) url(../images/style00003-P.png) no-repeat center center;-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	margin:0px;padding:0px;
+	position:absolute;
+	height:127px;
+	width:127px;
+	left:605px;
+	top:488px;
+	overflow:;
+	font-family:新細明體;
+	font-size:36px;
+	font-weight:700;
+	text-align:;
+	line-height:;
+	color:#00ff00;
+	font-style:normal;
+	text-shadow:;
+	text-decoration:  ;
+	border:0px solid rgba(255,255,255,0);
+	z-index:;
+}
+.JND_2_0 table{
+	text-decoration:  ;
+}
+
+.JND_2_0:active,.JND_2_1{
+	background:rgba(255,255,255,0) url(../images/style00002-P.png) no-repeat center center;-webkit-background-size:100% 100%;
+	background-size:100% 100%;
+	margin:0px;padding:0px;
+	position:absolute;
+	height:127px;
+	width:127px;
+	left:605px;
+	top:488px;
+	overflow:;
+	font-family:新細明體;
+	font-size:36px;
+	font-weight:700;
+	text-align:;
+	line-height:;
+	color:#000000;
+	font-style:normal;
+	text-shadow:;
+	text-decoration:  ;
+	border:0px solid rgba(255,255,255,0);
+	z-index:;
+}
+.JND_2_0  table:active,.JND_2_1 table{
+	text-decoration:  ;
+}
+
+
